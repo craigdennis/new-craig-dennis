@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Craig Dennis`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Craig Dennis`,
+      summary: `Find my writings and useful articles on front end development`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `The place to find all things Craig Dennis`,
+    siteUrl: `https://craigdennis.me`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `craig_dennis3`,
     },
   },
   plugins: [
