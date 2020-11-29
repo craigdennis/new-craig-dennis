@@ -320,6 +320,7 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+
 /* Media queries */
 
 @media (max-width: 42rem) {
@@ -330,5 +331,8 @@ a:focus {
   ul,
   ol {
     list-style-position: inside;
+  }
+  .gatsby-highlight {
+	  margin: 2.5rem -20%;
   }
 }
