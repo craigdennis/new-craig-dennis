@@ -1,5 +1,5 @@
 ---
-title: Flexbox: Flex Containers and Flex Items
+title: Flexbox - Flex Containers and Flex Items
 date: "2020-09-7T22:40:32.169Z"
 description: Learn about flex containers and flex items to increase your flexbox knowledge.
 ---
