@@ -10,11 +10,15 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
+  const ogTitle = post.frontmatter.title.replace(/\s+/g, "%20").toUpperCase()
+  const ogImage = `https://res.cloudinary.com/dbwsa4cgf/image/upload/c_fit,l_text:orbitron_50_style_bold_text_align_center:${ogTitle},w_1521/v1606657101/craigdennis.me/article-images/article-image/Social_Media_Image_uvgpxa.png`
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        og={ogImage}
       />
       <article
         className="blog-post"
