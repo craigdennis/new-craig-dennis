@@ -41,7 +41,7 @@ It is all about upstanding what set of items do you want to have control of, to 
 
 Let's take the navbar example to put this into context. This is the result that we are aiming for. A navbar with a logo on the left and links on the right for navigation.
 
-![https://cdn.hashnode.com/res/hashnode/image/upload/v1599394868642/GjXfoHzPH.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1599394868642/GjXfoHzPH.png)
+![header image](header.png)
 
 In this example, the room is the webpage. The furniture that we are putting in this room is the navbar (which will be what we are using for our container). And the items are the logo and the nav links.
 

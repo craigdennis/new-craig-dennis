@@ -1,17 +1,20 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { MDXRenderer } from "gatsby-plugin-mdx"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const BlogPostTemplate = ({ data, location }) => {
-  const post = data.markdownRemark
+const BlogPostTemplate = ({ data, location, children }) => {
+  const post = data.mdx
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
   const ogTitle = post.frontmatter.title.replace(/\s+/g, "%20").toUpperCase()
   const ogImage = `https://res.cloudinary.com/dbwsa4cgf/image/upload/c_fit,l_text:orbitron_50_style_bold_text_align_center:${ogTitle},w_1521/v1606657101/craigdennis.me/article-images/article-image/Social_Media_Image_uvgpxa.png`
+
+  console.log(data.mdx)
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -29,10 +32,9 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
+        <section itemProp="articleBody">
+          <MDXRenderer>{post.body}</MDXRenderer>
+        </section>
         <hr />
         <footer>
           <Bio />
@@ -81,17 +83,17 @@ export const pageQuery = graphql`
         title
       }
     }
-    markdownRemark(id: { eq: $id }) {
+    mdx(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
-      html
+      body
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
         description
       }
     }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
+    previous: mdx(id: { eq: $previousPostId }) {
       fields {
         slug
       }
@@ -99,7 +101,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    next: markdownRemark(id: { eq: $nextPostId }) {
+    next: mdx(id: { eq: $nextPostId }) {
       fields {
         slug
       }
