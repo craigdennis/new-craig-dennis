@@ -1,20 +1,23 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import { MDXRenderer } from "gatsby-plugin-mdx"
+import { MDXProvider } from "@mdx-js/react"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const BlogPostTemplate = ({ data, location, children }) => {
+import "prismjs/themes/prism.css"
+
+const BlogPostTemplate = ({ data, location }) => {
   const post = data.mdx
   const siteTitle = data.site.siteMetadata?.title || `Title`
+
+  console.log(data)
   const { previous, next } = data
 
   const ogTitle = post.frontmatter.title.replace(/\s+/g, "%20").toUpperCase()
   const ogImage = `https://res.cloudinary.com/dbwsa4cgf/image/upload/c_fit,l_text:orbitron_50_style_bold_text_align_center:${ogTitle},w_1521/v1606657101/craigdennis.me/article-images/article-image/Social_Media_Image_uvgpxa.png`
-
-  console.log(data.mdx)
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -33,7 +36,9 @@ const BlogPostTemplate = ({ data, location, children }) => {
           <p>{post.frontmatter.date}</p>
         </header>
         <section itemProp="articleBody">
-          <MDXRenderer>{post.body}</MDXRenderer>
+          <MDXProvider>
+              <MDXRenderer>{post.body}</MDXRenderer>
+          </MDXProvider>
         </section>
         <hr />
         <footer>

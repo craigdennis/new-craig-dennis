@@ -49,7 +49,7 @@ We want to control the positioning on the logo and the nav links (the items) wit
 
 To simply do this we turn the navbar into a flexbox container by applying display: flex in this CSS of the navbar.
 
-```
+```css
 nav {
   display: flex;
 }
@@ -62,7 +62,7 @@ In the navbar example, we have applied the align-items property to align the ite
 
 We have added some other CSS style to make it look prettier and we have even created another flex-container on the unordered list so the list items are under the control of flexbox as well.
 
-```
+```css
 nav {
   background-color: #2a2a2a;
   color: white;
@@ -92,7 +92,7 @@ You can download a copy free on my website [www.craigdennis.me](http://www.craig
 
 Full Code
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -115,7 +115,7 @@ Full Code
 
 ```
 
-```
+```css
 nav {
   background-color: #2a2a2a;
   color: white;
@@ -134,5 +134,4 @@ ul {
 li {
   margin-left: 1em;
 }
-
 ```
