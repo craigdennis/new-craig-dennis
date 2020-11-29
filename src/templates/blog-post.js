@@ -17,7 +17,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
 
   const ogTitle = post.frontmatter.title.replace(/\s+/g, "%20").toUpperCase()
-  const ogImage = `https://res.cloudinary.com/dbwsa4cgf/image/upload/c_fit,l_text:orbitron_50_style_bold_text_align_center:${ogTitle},w_1521/v1606657101/craigdennis.me/article-images/article-image/Social_Media_Image_uvgpxa.png`
+  const ogImage = `https://res.cloudinary.com/dbwsa4cgf/image/upload/c_fit,co_rgb:ffffff,l_text:roboto_100_style_bold_text_align_right:${ogTitle},w_750,x_500,y_-100/v1606657101/craigdennis.me/article-images/article-image/Social_Media_Image_uvgpxa.png`
+  //const ogImage = `https://res.cloudinary.com/dbwsa4cgf/image/upload/c_fit,l_text:orbitron_50_style_bold_text_align_center:${ogTitle},w_1521/v1606657101/craigdennis.me/article-images/article-image/Social_Media_Image_uvgpxa.png`
   
   return (
     <Layout location={location} title={siteTitle}>
