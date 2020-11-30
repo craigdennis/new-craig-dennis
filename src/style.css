@@ -303,6 +303,17 @@ a:focus {
   border-radius: 100%;
 }
 
+.nav ul {
+  display:flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.nav li {
+  margin-right: 1rem;
+}
+
+
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }

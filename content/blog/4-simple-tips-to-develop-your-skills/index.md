@@ -96,7 +96,7 @@ There are certain problems that Google cannot find you the answer you want.
 
 Instead of giving in and closing your project and turning to work on the other 20 + unfinished projects you have started, you can reach out to your mentor and ask for them to help.
 
-Not only are mentors good for helping on certain parts of your code but they can help with other things. Their experience is the key to what makes a good mentor. Having been in the same position before you, they are able to share insights for their own experience which can help you along your way. From applying for jobs, working with software, general recommendations and working with a team. Getting the right mentor is a sure way of levelling up your skills.
+Not only are mentors good for helping on certain parts of your code but they can help with other things. Their experience is the key to what makes a good mentor. Having been in the same position before you, they are able to share insights for their own experience which can help you along your way. From applying for jobs, working with software, general recommendations and working with a team. Getting the right mentor is a sure way of leveling up your skills.
 
 There are websites where you can find yourself a mentor or you could reach out to people in the community and see if they are willing to help you.
 
