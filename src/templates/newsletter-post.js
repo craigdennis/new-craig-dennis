@@ -9,7 +9,7 @@ import SEO from "../components/seo"
 
 import "prismjs/themes/prism.css"
 
-const BlogPostTemplate = ({ data, location }) => {
+const NewsletterTemplate = ({ data, location }) => {
   const post = data.mdx
   const siteTitle = data.site.siteMetadata?.title || `Title`
 
@@ -77,10 +77,10 @@ const BlogPostTemplate = ({ data, location }) => {
   )
 }
 
-export default BlogPostTemplate
+export default NewsletterTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug(
+  query NewsletterBySlug(
     $id: String!
     $previousPostId: String
     $nextPostId: String
