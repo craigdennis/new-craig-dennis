@@ -2,6 +2,8 @@
 title: What I Learnt Making A Guess The Number Game
 date: "2020-11-28T22:40:32.169Z"
 description: This is what I learnt making a guess the number game. This includes Event Listeners, QuerySelectors and more.
+category: blog
+
 ---
 
 I have taken a new approach to my learning. I have stopped with the coding along to courses and started to take action in my own learning. 
