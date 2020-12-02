@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 import Nav from "../components/nav"
 
+
+
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath

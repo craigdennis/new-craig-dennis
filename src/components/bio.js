@@ -8,6 +8,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import NewsletterSignup from "../components/newsletterSignup"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -40,7 +41,8 @@ const Bio = () => {
   const avatar = data?.avatar?.childImageSharp?.fixed
 
   return (
-    <div className="bio">
+    <div >
+      <div className="bio">
       {avatar && (
         <Image
           fixed={avatar}
@@ -60,7 +62,11 @@ const Bio = () => {
           </a>
         </p>
       )}
+      </div>
+      <NewsletterSignup />
+    
     </div>
+   
   )
 }
 

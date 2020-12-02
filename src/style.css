@@ -331,6 +331,31 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.sub {
+  padding: 0 1rem;
+  margin-bottom: 4rem;
+}
+
+.sub input {
+  padding: 10px;
+}
+
+.sub button {
+  margin-left: 1rem;
+  background-color: #0a607a;
+  border-top: 2px solid black;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  border-style: none;
+  padding: 12px 24px;
+}
+
+.sub__tag {
+  margin-top: 1rem;
+}
+
+
 
 /* Media queries */
 
