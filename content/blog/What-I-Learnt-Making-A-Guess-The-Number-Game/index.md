@@ -3,7 +3,6 @@ title: What I Learnt Making A Guess The Number Game
 date: "2020-11-28T22:40:32.169Z"
 description: This is what I learnt making a guess the number game. This includes Event Listeners, QuerySelectors and more.
 category: blog
-
 ---
 
 I have taken a new approach to my learning. I have stopped with the coding along to courses and started to take action in my own learning. 
@@ -14,11 +13,11 @@ My approach is to take the project and code it myself. If I come across somethin
 
 Once I have a working version of the project I then go back and watch the video on 3x speed to see any differences.
 
-The first project that I have worked on is a guess the number game. A number is randomly selected to guess and it is your job to guess it right. After each guess you get a message to help you.
+The first project that I have worked on is a guess the number game. A number is randomly selected to guess and it is your job to guess it right.
 
 ## Things learnt
 
-These are some of the things that I learnt and are summarized below:
+These are some of the things that I learnt:
 
 - Element selector
 - Random number
@@ -27,7 +26,7 @@ These are some of the things that I learnt and are summarized below:
 
 ## TODO
 
-If you are looking to have a go at coding this project yourself then here is a list of steps. Feel free to share your finished project with me on [twitter](http://www.twitter.com/craig_dennis3).
+If you are looking to have a go at coding this project yourself then here's your to do list. Feel free to share your finished project with me on [twitter](http://www.twitter.com/craig_dennis3).
 
 1. Create UI in HTML and CSS
 2. Create all the element selectors
@@ -78,7 +77,7 @@ We have created a constant "scoreLabel" and added the method getElementByID. It 
 const scoreLabel = document.getElementById('score-label');
 ```
 
-QuerySelector and getElementByID are both important for you to know and understand how to use them as it is one of the key ways to interact with the HTML document.
+QuerySelector and getElementByID are both important for you to know and understand as it is one of the key ways to interact with the HTML document.
 
 ## Getting value from the input
 
@@ -131,4 +130,4 @@ checkBtn.addEventListener('click', checkGuess);
 
 Put that all together and you have yourself a guess the number game. You can find the full working game [here](https://mini-projectz.netlify.app/guess-my-number/index.html).
 
-If you want to keep up to date with more things that I am learning, helpful tips and motivation message follow me on [twitter](http://www.twitter.com/craig_dennis3).
+If you want to keep up to date with more things that I am learning, helpful tips and motivational messages follow me on [twitter](http://www.twitter.com/craig_dennis3).

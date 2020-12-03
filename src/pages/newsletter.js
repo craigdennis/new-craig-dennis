@@ -25,7 +25,7 @@ const NewsletterIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
+      <SEO title="Newsletter - Craig Dennis" />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
