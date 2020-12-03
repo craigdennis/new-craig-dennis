@@ -72,7 +72,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMdx(filter: { frontmatter: { category: { eq: "blog" } } }) {
+    allMdx(
+      filter: { frontmatter: { category: { eq: "blog" } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+      ) {
         nodes {
           excerpt
           fields {
