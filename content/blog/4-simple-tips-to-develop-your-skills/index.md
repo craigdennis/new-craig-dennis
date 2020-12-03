@@ -1,6 +1,6 @@
 ---
 title: 4 Simple Tips to Develop Your Skills
-date: "2020-11-28T22:40:32.169Z"
+date: "2020-07-14T22:40:32.169Z"
 description: Here are 4 simple tips to help you develop your skills as a developer.
 category: blog
 ---
