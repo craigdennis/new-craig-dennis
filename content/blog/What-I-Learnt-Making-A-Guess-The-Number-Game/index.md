@@ -7,7 +7,7 @@ category: blog
 
 I have taken a new approach to my learning. I have stopped with the coding along to courses and started to take action in my own learning. 
 
-Most courses that I’ve seen teach you by projects. The problem comes when you don't engage and just copy code. This does not cement what you are doing into your brain as well. 
+Most courses that I’ve seen teach you by projects. The problem comes when you don't engage and just copy code. This does not cement what you are doing into your brain. 
 
 My approach is to take the project and code it myself. If I come across something that I'm struggling then I will use a developer's best friend. Google.
 
