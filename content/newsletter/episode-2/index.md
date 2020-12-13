@@ -1,6 +1,6 @@
 ---
 title: My Favourite Bits Episode 2
-date: "2020-12-23T12:00:00.169Z"
+date: "2020-12-13T12:00:00.169Z"
 description: Episode 2 of My Favourite Bits Newsletter
 category: newsletter
 ---
