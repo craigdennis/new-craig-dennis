@@ -1,5 +1,5 @@
 ---
-title: Episode 1
+title: My Favourite Bits Episode 1
 date: "2020-12-06T12:00:00.169Z"
 description: Episode 1 of My Favourite Bits Newsletter
 category: newsletter
@@ -8,7 +8,7 @@ category: newsletter
 
 Welcome to Episode 1!
 
-This is the start of my weekly newsletter that will be sent out at 12:00 every Sunday. This is my chance to practise a bit of writing and share you with you some of the interesting things that I have found over the Internet and a way for you to be able to keep up with what I am doing.
+This is the start of my weekly newsletter that will be sent out at 12:00 every Sunday. This is my chance to practice a bit of writing and share you with you some of the interesting things that I have found over the Internet and a way for you to be able to keep up with what I am doing.
 
 Hope you enjoy!
 
