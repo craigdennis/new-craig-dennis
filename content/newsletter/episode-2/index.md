@@ -68,6 +68,10 @@ Brilliant interview with Harry Dry who made a dating website for Kanye West fans
 
 ## 🎵 Song - Honeybody by Nu Deco Ensemble and Kishi Bashi
 
+![https://www.youtube.com/watch?v=OVaoXTVNQok&ab_channel=NuDecoEnsemble-Topic](bashi.jpg)
+
+[https://www.youtube.com/watch?v=OVaoXTVNQok&ab_channel=NuDecoEnsemble-Topic](https://www.youtube.com/watch?v=OVaoXTVNQok&ab_channel=NuDecoEnsemble-Topic)
+
 This track is so full of delight and jive. Perfect song to get your energized and raring to go. Right head bobber.
 
 ## 📖 What I'm Reading
