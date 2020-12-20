@@ -34,7 +34,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date} <br></br> {post.timeToRead} minutes read</p>
         </header>
         <section itemProp="articleBody">
           <MDXProvider>
@@ -100,6 +100,7 @@ export const pageQuery = graphql`
         description
         category
       }
+      timeToRead
     }
     previous: mdx(id: { eq: $previousPostId }) {
       fields {
