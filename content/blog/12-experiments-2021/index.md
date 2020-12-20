@@ -1,6 +1,6 @@
 ---
 title: 12 Experiments in 12 Months in 2021
-date: "2020-12-21T22:40:32.169Z"
+date: "2020-12-20T13:15:32.169Z"
 description: In 2021 I plan on taking on 12 experiments to start new habits, improve my life and have some fun!
 category: blog
 ---
