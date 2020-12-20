@@ -29,6 +29,7 @@ As we go through the year it is possible that I will change what the monthly exp
 
 As part of Red January to help raise money for mental health, the experiment is to exercise everyday. My exercise will be to run everyday.
 
+
 **Feb - Create a micro-project**
 
 To help improve my knowledge of HTML, CSS and JS I will make a project from this Udemy course. 
@@ -37,41 +38,51 @@ To help improve my knowledge of HTML, CSS and JS I will make a project from this
 
 I will be using the project as a guide and will make them without looking at the tutorial unless I get stuck.
 
+
 **Mar - No sugar**
 
 I have read a lot about the benefits of cutting sugar out of your diet on your body. I feel like this might be the hardest challenge of the year as I have a weakness to sweet things.
+
 
 **Apr - Write 200 words a day**
 
 To help improve my writing I am planning on writing at least 200 words a day. This may come in the form of some sloppy writing, depending on how much time I have to edit. But it is the act of writing that I am more interested in. Getting ideas out of my head and onto paper.
 
+
 **Jun - Wear blue light blocking glasses for a month**
 
 With the amount of time that I spend in front of a computer screen, I thought I would see if there are any noticeable benefits to wearing blue light blocking glasses.
+
 
 **Jul - Wake up at 5am everyday**
 
 I think this will also be another challenging experiment, having started this for a week and it about killed me off. This time I will try and go bed early and do what I can to prepare for this hell!
 
+
 **Aug - Sleep for 8 hours a day**
 
 Probably a fitting experiment following the previous one. I think that most of the time I do not give myself enough sleep to properly function as a human. So this experiment could be considered a treat to my body.
+
 
 **Sep - Gamble £1 everyday**
 
 This is to see if I can make a career out of gambling. The plan is to gamble £1 a day and see if I can finish the month with more money than I made. Expect to see some football accumulators and some horse racing bets. 
 
+
 **Oct - Mediate 30 mins a day**
 
 There have been countless studies about the benefits of mediation. I had integrated this into my morning routine before so 30 mins a day should hopefully have a positive impact.
+
 
 **Nov - Read 30 mins a day**
 
 With my reading goals that I have set myself for 2021, this month will give me the chance to catch up in case I slipped. The 30 minutes may involve making notes on books as well as reading as there is little point reading unless you are note taking.
 
+
 **Dec - Send messages of gratitude**
 
 This month will tie up nicely with all the festive cheers in the year. The plan is to write a message each day to a person in my life telling them what I'm grateful for. Again I have read countless things about the benefits of this and will be a great theme in time for Christmas.
+
 
 There we have it. 12 experiments in 12 months. It is easy to put this down in words, the hardest part is executing on this.
 
