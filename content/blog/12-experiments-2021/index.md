@@ -69,9 +69,9 @@ Probably a fitting experiment following the previous one. I think that most of t
 This is to see if I can make a career out of gambling. The plan is to gamble £1 a day and see if I can finish the month with more money than I made. Expect to see some football accumulators and some horse racing bets. 
 
 
-**Oct - Mediate 30 mins a day**
+**Oct - Meditate 30 mins a day**
 
-There have been countless studies about the benefits of mediation. I had integrated this into my morning routine before so 30 mins a day should hopefully have a positive impact.
+There have been countless studies about the benefits of meditation. I had integrated this into my morning routine before so 30 mins a day should hopefully have a positive impact.
 
 
 **Nov - Read 30 mins a day**
