@@ -38,11 +38,9 @@ const SubscriptionForm = () => {
 
   return (
     <div className="sub">
-      <h2>Sign up for My Favourite Bits</h2>
+      <h2>Sign up to my Newsletter</h2>
       <p>
-        Every Sunday, I send out all my favourite bits of the week from music
-        I've listened to and articles I've read and much more. You also can keep
-        up to date with what's going on in my world.
+        Sign up to be notified of the latest things that are happening in the world of Craig.
       </p>
 
       {status === "SUCCESS" && <p>Please go confirm your subscription!</p>}
