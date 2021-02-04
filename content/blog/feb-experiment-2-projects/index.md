@@ -24,3 +24,5 @@ Day 1 - [Expanding Cards](https://feb-projects.netlify.app/day-1/)
 Day 2 - [Progress Bar](https://feb-projects.netlify.app/day-2/)
 
 Day 3 - [Rotating Nav](https://feb-projects.netlify.app/day-3/)
+
+Day 4 - [Search Widget](https://feb-projects.netlify.app/day-4)
