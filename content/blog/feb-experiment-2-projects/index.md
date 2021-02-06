@@ -28,3 +28,5 @@ Day 3 - [Rotating Nav](https://feb-projects.netlify.app/day-3/)
 Day 4 - [Search Widget](https://feb-projects.netlify.app/day-4)
 
 Day 5 - [Loading Photo Blur](https://feb-projects.netlify.app/day-5)
+
+Day 6 - [Scrolling Animation](https://feb-projects.netlify.app/day-6)
