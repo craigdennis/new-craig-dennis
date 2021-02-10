@@ -36,3 +36,6 @@ Day 7 - [Split Landing Page](https://feb-projects.netlify.app/day-7)
 Day 8 - [Wave Animation Login Page](https://feb-projects.netlify.app/day-8)
 
 Day 9 - [Sound Board](https://feb-projects.netlify.app/day-9)
+
+Day 10 - [Dad Jokes](https://feb-projects.netlify.app/day-10)
+
