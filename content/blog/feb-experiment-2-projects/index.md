@@ -41,3 +41,5 @@ Day 10 - [Dad Jokes](https://feb-projects.netlify.app/day-10)
 
 Day 11 - [Key Codes](https://feb-projects.netlify.app/day-11)
 
+Day 12 - [FAQ Toggle](https://feb-projects.netlify.app/day-12)
+
