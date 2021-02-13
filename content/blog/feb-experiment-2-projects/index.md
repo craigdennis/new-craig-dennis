@@ -43,3 +43,5 @@ Day 11 - [Key Codes](https://feb-projects.netlify.app/day-11)
 
 Day 12 - [FAQ Toggle](https://feb-projects.netlify.app/day-12)
 
+Day 13 - [Random Choice Picker](https://feb-projects.netlify.app/day-13)
+
