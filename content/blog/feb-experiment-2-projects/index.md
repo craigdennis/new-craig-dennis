@@ -49,3 +49,5 @@ Day 14 - [Nav Menu Animation](https://feb-projects.netlify.app/day-14)
 
 Day 15 - [Animated Counters](https://feb-projects.netlify.app/day-15)
 
+Day 16 - [Water Tracker](https://feb-projects.netlify.app/day-16)
+
