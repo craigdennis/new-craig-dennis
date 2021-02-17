@@ -5,8 +5,6 @@ description: February's experiment is to code a new project everyday
 category: blog
 ---
 
-*Last Updated: 2nd February 2021 09:23*
-
 It is time for experiment 2. Create a micro-project each day.
 
 This year instead of setting new year resolutions for 2021, it was 12 experiments instead. One for each month. You can see what I have planned [here](https://www.craigdennis.me/12-experiments-2021/).
@@ -50,4 +48,6 @@ Day 14 - [Nav Menu Animation](https://feb-projects.netlify.app/day-14)
 Day 15 - [Animated Counters](https://feb-projects.netlify.app/day-15)
 
 Day 16 - [Water Tracker](https://feb-projects.netlify.app/day-16)
+
+Day 17 - [Image Slider](https://feb-projects.netlify.app/day-17)
 
