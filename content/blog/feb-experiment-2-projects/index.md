@@ -53,3 +53,7 @@ Day 17 - [Image Slider](https://feb-projects.netlify.app/day-17)
 
 Day 18 - [Working Clock](https://feb-projects.netlify.app/day-18)
 
+Day 19 - [MISSED]
+
+Day 20 - [Movie API](https://feb-projects.netlify.app/day-20)
+
