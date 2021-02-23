@@ -60,3 +60,5 @@ Day 20 - [Movie API](https://feb-projects.netlify.app/day-20)
 Day 21 - [Drawing App](https://feb-projects.netlify.app/day-21)
 
 Day 22 - [Ripple Button Animation](https://feb-projects.netlify.app/day-22)
+
+Day 23 - [Placeholder Animation](https://feb-projects.netlify.app/day-23)
