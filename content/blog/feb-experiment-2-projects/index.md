@@ -63,4 +63,6 @@ Day 22 - [Ripple Button Animation](https://feb-projects.netlify.app/day-22)
 
 Day 23 - [Placeholder Animation](https://feb-projects.netlify.app/day-23)
 
-Day 24 - [Triangle Animation](https://feb-projects.netlify.app/day-23)
+Day 24 - [Triangle Animation](https://feb-projects.netlify.app/day-24)
+
+Day 25 - [Fixed Nav](https://feb-projects.netlify.app/day-25)
