@@ -48,6 +48,10 @@ I have read a lot about the benefits of cutting sugar out of your diet on your b
 
 To help improve my writing I am planning on writing at least 200 words a day. This may come in the form of some sloppy writing, depending on how much time I have to edit. But it is the act of writing that I am more interested in. Getting ideas out of my head and onto paper.
 
+**May - Practise Visualisation**
+
+I have read a lot of things of the benefits on visualisation. Thinking about an goal that you have and picturing yourself living that goal everyday. My challenge will be to visualise something everyday and see what happens. Hopefully a month will be enough time to make it come true.
+
 
 **Jun - Wear blue light blocking glasses for a month**
 
