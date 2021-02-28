@@ -70,3 +70,5 @@ Day 25 - [Fixed Nav](https://feb-projects.netlify.app/day-25)
 Day 26 - [Double Slider](https://feb-projects.netlify.app/day-26)
 
 Day 27 - [Toast Notification](https://feb-projects.netlify.app/day-27)
+
+Day 28 - [Heart On Click](https://feb-projects.netlify.app/day-28)
