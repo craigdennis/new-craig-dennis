@@ -72,3 +72,12 @@ Day 26 - [Double Slider](https://feb-projects.netlify.app/day-26)
 Day 27 - [Toast Notification](https://feb-projects.netlify.app/day-27)
 
 Day 28 - [Heart On Click](https://feb-projects.netlify.app/day-28)
+
+
+##Things I learnt after 28 days - 1 in a row
+
+- Things look better when you put a transition it
+- You can do a lot by just putting a CSS class on something with JavaScript
+- If it isn't simple, then you've made it complex
+
+A big thank you goes out to Florin and Brad for putting this course together. There are loads of great things you can use and reuse for your sites.
