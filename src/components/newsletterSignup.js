@@ -40,8 +40,11 @@ const SubscriptionForm = () => {
     <div className="sub">
       <h2>Stay up to date about all things Email Marketing</h2>
       <p>
-        Can't be arsed to listen to all the podcasts, read all the articles and read all the tweets. I've got your back!
-        Receive bi-weekly updates to help you with your email marketing.
+        Can't be arsed to listen to all the podcasts, read all the articles and read all the tweets about email marketing. I've got your back!
+      </p>
+
+      <p>
+      Receive bi-weekly updates every other Sunday at 19:00 to help you with your email marketing.
       </p>
 
       {status === "SUCCESS" && <p>Please go confirm your subscription!</p>}
