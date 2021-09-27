@@ -38,9 +38,10 @@ const SubscriptionForm = () => {
 
   return (
     <div className="sub">
-      <h2>Sign up to my Newsletter</h2>
+      <h2>Stay up to date about all things Email Marketing</h2>
       <p>
-        Sign up to be notified of the latest things that are happening in the world of Craig.
+        Can't be arsed to listen to all the podcasts, read all the articles and read all the tweets. I've got your back!
+        Receive bi-weekly updates to help you with your email marketing.
       </p>
 
       {status === "SUCCESS" && <p>Please go confirm your subscription!</p>}
@@ -63,7 +64,7 @@ const SubscriptionForm = () => {
           required
         />
 
-        <button type="submit">Subscribe</button>
+        <button type="submit">Improve My Email Marketing</button>
       </form>
 
       <p className="sub__tag">
