@@ -1,107 +1,164 @@
 ---
-title: My Favourite Bits Episode 1
-date: "2020-12-06T12:00:00.169Z"
-description: Episode 1 of My Favourite Bits Newsletter
+title: Email Marketing Issue 1
+date: "2021-11-10T19:00:00.169Z"
+description: Issue 1 of the email marketing newsletter
 category: newsletter
 ---
-# Welcome
 
-Welcome to Episode 1!
+Hey Craig here!
 
-This is the start of my weekly newsletter that will be sent out at 12:00 every Sunday. This is my chance to practice a bit of writing and share you with you some of the interesting things that I have found over the Internet and a way for you to be able to keep up with what I am doing.
+Welcome to the very first issue of the email marketing newsletter where you will find the best curated content from articles and podcasts every other Sunday.
 
-Hope you enjoy!
+If you aren't already subscribed, you can do so below.
 
-## Sunday Story
+[I WANT MORE EMAIL MARKETING IN MY LIFE](https://hustling-knitter-659.ck.page/723238518c)
 
-I changed a few things and still nothing. Migrating my site wasn’t as straight forward as I thought. Especially when you are going from HTML and CSS to Gatsby.
+**Let's Get Started ➡**
 
-Two things helped though.
+---
 
-The first was giving myself a head start and the second was asking a friend.
 
-Since I didn’t know what I was doing it was wise to give my self a head start, rather than starting from the very beginning. Gatsby has a library where you can download a starter website. I started with the [a blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/) template.
 
-It was simple. And I could see how I was planning on expanding it.
+## ✍️ Articles
 
-Now it was the challenge of adding and editing.
+**1. Email Deliverability Remediation: 6 Ways to Avoid Getting Burned**
 
-When I have been stuck on problems in the past, heading into the wildlands of Google is the best solution. Being able to express your problem in as clear a question as you can is the way to find the best results.
+Email deliverability is super important. You spend all this time crafting an email that you are excited to see if it bring in the moolah, only to find that it's been marked as spam and may as well just stayed in your email drafts. 
 
-This time, however, I had a problem.
+This article from Litmus will help you against this.
 
-I didn’t know what my problem was! I knew the outcome I wanted, but I lacked the technical terms and how the starter library worked! And it didn't help with the fact that I had never used Gatsby before.
+**Key Takeaways**
 
-This is when I had to move to my second solution. Ask a friend. I asked my kind friend [Fabio](https://twitter.com/FabioRosado_) if he was able to spread some light on what was going on. He spent some time showing, improving and figuring out my new website.
+- Check emails on your list don't contain any spelling errors as bounce rates can mark you as spam
+- Use Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-based Message Authentication, Reporting & Conformance (DMARC)
+- Use encryption to increase trust factor
+- Run your email through spam filtering tests
+- Use re-engagement campaign's to revive inactive users
 
-With his help and a lot of trial and error on my end, the transformation from HTML and CSS to Gatsby was achieved.
+[Read Me](https://www.litmus.com/blog/burnt-hand-deliverability-practices-email-remediation-plan)
 
-The site is now live at [www.craigdennis.me](notion://www.notion.so/www.craigdennis.me). It is still a work in progress so I will share my updates with you as I go.
+**2. Nine Effective Email Marketing Strategies That Aren’t Just About ‘Selling’**
 
-With this change, it will make publishing my articles to my site so much easier. And fast! It's super fast!
+People are bombarded with adverts and emails from businesses trying to sell them things. This tends to make people glaze over when all you read about is BUY BUY BUY. You need to be smarter about how you communicate with your customers. This article will show you some strategies which are a bit more subtle.
 
-Remember.
+**Key Takeaways**
 
-Where you can, make things easy for yourself. You don’t get a gold medal from starting from scratch. It’s the results that matters.
+- For every sales email you send make sure you send at least two emails dripping with value
+- Engage new subscribers with a story based email sequence
+- Make sure that you're sharing all the new and exciting things that are happening in your business
 
-And ask for help. It speeds things up a lot!
+[Read Me](https://www.forbes.com/sites/theyec/2021/09/28/nine-effective-email-marketing-strategies-that-arent-just-about-selling/)
 
-## 📃 Article
 
-[https://yen.fm/build-newsletter/](https://yen.fm/build-newsletter/)
 
-This is quite a timely article seeing as this is episode 1. Lots of helpful advice on how and why you should start your newsletter. Create a corner of the internet for yourself and share.
+---
 
-## 🎵 Song - Keep Climbing - Cobi
 
-![https://www.youtube.com/watch?v=Xe12tI79hMI](cobi.jpg)
-
-[https://www.youtube.com/watch?v=Xe12tI79hMI](https://www.youtube.com/watch?v=Xe12tI79hMI)
-
-This was a track that I came across when listening to my station on Apple Music. I find it uplifting and powerful. Check out his live acoustic version [here](https://www.youtube.com/watch?v=J7cRAx6RLD8). Such a voice!
 
 ## 🎧 Podcast
 
-![developertea.jpg](developertea.jpg)
 
-[https://spec.fm/podcasts/developer-tea/X5XzqN7P](https://spec.fm/podcasts/developer-tea/X5XzqN7P)
 
-Kent C Dodds talks about the value of teaching and why you should be doing to it improve your learning.
+### **1. How To Turn Your Customers Into Loyal Fans Through Email**
 
-## 📺 What I’m watching
+On this episode from Email Einstein, they interview Shianne Smalling the CRM from luxury swimsuit business Andie. 
 
-![the-crown.jpg](the-crown.jpg)
+### What you'll learn
 
-The Crown
+- Tips on showing discounts to people who have already bought
+- What you can do to try and re-engage inactive subscribers
+- How leaving the discount out in your sales emails could increase conversions
 
-Even though I’m from the UK, I don’t have hardly any knowledge of the Royal family apart from the main events in the mainstream news. The Crown is a very well produced show visiting the history (based on some fact, maybe?) of the Royal Family. I don’t know why, but it's captivating. And Hans Zimmer wrote the soundtrack. Bonus!
+[Listen](https://flowium.com/podcasts/turn-customers-into-fans)
 
-## 📖 What I'm Reading
 
-![writing-for-software.jpg](writing-for-software.jpg)
 
-[Writing for Software Developers by Philip Kiely](https://gumroad.com/philipkiely#uZPZU)
+### **2. Here‘s why your open rates have tanked. And what to do about it**
 
-With my interest in writing and producing technical content to help people, Philip's book looked exactly what I was after. I am about halfway through and found some golden nuggets to help me create my content.
+Inbox Besties talks about why your open rates may have dropped and what you can do to increase them
 
-Here are some snippets that I’ve highlighted from the book.
+### What you'll learn
 
-> "You should write one-year articles for your clients and publish ten-year articles for yourself.”
+- How "talking real" with your subscribers could win them back
+- How sending certain emails more than once could help with your open rates
+- How poor spelling could be impacting your open rates
 
-> “I am more intentional now in writing to position my pieces as essays rather than blog posts, because essays have an anchor around timelessness and blog posts have an anchor around - Patrick McKenzie"
+[Listen](https://inboxbesties.podbean.com/e/here-s-why-your-open-rates-have-tanked-and-what-to-do-about-it-ep-191/)
 
-> “You start with that super high-level explanation of the goals of doing this, and then you continue unwrapping the onion one layer at a time until you get to the very nub of it where you’re showing people actual code snippets. — Patrick McKenzie”
 
-> “The outline is one of several steps in the writing process where you decide what to leave out of the article”
 
-> “For an article, good clean code is concise but easy to understand; you should optimize for readability first”
+**3. Should You Delete Unengaged Email Subscribers**
+
+Having anything large makes your ego big. It could be a big car, a big beard or even a big beer belly. But what about a big email list? Is having a big email list a good thing? E-commerce uncensored talks about having a big list may not be a good thing and why deleting some subscribers could be a good thing.
+
+  **What you'll learn**
+
+- How different types of email can prevent them being flagged as spam
+- How sending emails at different times and days can make a difference
+- How size doesn't matter
+
+[Listen](https://www.ecommerceuncensored.com/eu229-should-you-delete-unengaged-email-subscribers/)
+
+## 🐦 Email Twitter Wisdom
+
+
+
+[Adete on Twitter: "Planning to start an email list to build your personal brand or business? Here's what you should know beforehand (Thread)" / Twitter](https://twitter.com/adetedahiya/status/1435632734324416514)
+
+
+
+[Joe Portsmouth on Twitter: "Email is not dead. It should bring in 25-35% of revenue for most brands. Here are 15 things any DTC e-commerce brand can start doing today to improve their email marketing:" / Twitter](https://twitter.com/joe_portsmouth/status/1442504334030237711)
+
+
 
 ---
 
-That's all folks!
 
-If you want to catch up with my goings-on throughout the week, head over to my [twitter](notion://www.notion.so/www.twitter.co./craig_dennis3).
 
-Peace out!
+## 🗓 Upcoming Events
 
-Craig x
+**1. Mailchimp E‑commerce Masterclass Series (FREE)**
+
+Looking for some help with your holiday sales? Mailchimp is hosting virtual events for both beginners and seasoned online business owners.
+
+### What you'll learn
+
+- How to develop a pricing and promotional strategy focused on driving sales and profitability
+- Tips on how to create consistent branding and content across your marketing channels to help you stand out during this highly competitive time period
+- How to effectively utilize data across your customer journey and make real time adjustments to maximize your holiday sales potential.
+
+### Date of webinar
+
+4th October - 14th October
+
+[Register for the event](https://mailchimp.com/events/marketing-success/)
+
+
+
+**2. Litmus Live (PAID)**
+
+Are you looking to hear from email experts and learn from their expertise with actionable insights? Do you want to network with other similar minded people? Then this online 2 day event is for you.
+
+### What you'll learn
+
+- How to nurture customers by telling stories
+- How to use modular email blocks to improve your workflow and drastically reduce your development time 
+- How to improve your email engagement and conversions
+
+### Date of webinar
+
+26th October - 27th October
+
+[Register for the event](https://www.litmus.com/conference/)
+
+
+
+---
+
+
+
+$ Interested in advertising to people who love to make it rain with email marketing? Email info@craigdennis.me
+
+😀 Want to see something different? Have anything that I can improve? Want to submit something to be in the next newsletter? [Do all of that here.](https://form.jotform.com/212711680778057)
+
+⏩ Forward this email to your friends so they can benefit from all the goodness in it. Hey friend 👋 you can [subscribe to this newsletter here](https://hustling-knitter-659.ck.page/723238518c) 🏆
