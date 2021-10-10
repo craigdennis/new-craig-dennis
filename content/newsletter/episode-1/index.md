@@ -1,6 +1,6 @@
 ---
 title: Email Marketing Issue 1
-date: "2021-11-10T19:00:00.169Z"
+date: "2021-10-10T19:00:00.169Z"
 description: Issue 1 of the email marketing newsletter
 category: newsletter
 ---
