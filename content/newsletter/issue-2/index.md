@@ -1,5 +1,5 @@
 ---
-title: Email Marketing Issue 1
+title: Email Marketing Issue 2
 date: "2021-10-24T19:00:00.169Z"
 description: Issue 2 of the email marketing newsletter
 category: newsletter
