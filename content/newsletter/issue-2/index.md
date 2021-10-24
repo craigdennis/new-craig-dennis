@@ -93,16 +93,13 @@ Brian Kurtz is a big name in the copywriting world. In this episode of the Marte
 
 ## 🐦 Email Marketing Twitter Wisdom
 
-![twitter profile avatar](https://pbs.twimg.com/profile_images/1442475997694083078/ij1cSUis_normal.jpg)Santiago Cruz | Email & SMS Marketing King 👑![Twitter Logo](https://functions-js.convertkit.com/icons?icon=twitter&foreground=1d8ced&background=000000&shape=icon-only)@SantiagoCruz02[Effortlessly make $100,000 by the end of the year Pairing TikTok +  Email Marketing   Ignore this thread at your own risk  🧵  pic.twitter.com/VeFI0XsAso![Video or Gif](https://pbs.twimg.com/media/FB_T4wcWEAgqTX9.jpg)](https://twitter.com/SantiagoCruz02/status/1450113917573869570)October 18th 202178Retweets622Likes
+[Effortlessly make $100,000 by the end of the year Pairing TikTok +  Email Marketing Ignore this thread at your own risk  🧵 ](https://twitter.com/SantiagoCruz02/status/1450113917573869570)
 
 
-
-![twitter profile avatar](https://pbs.twimg.com/profile_images/1436075891768049667/8_VMxM_r_normal.jpg)Bearded Email Marketer![Twitter Logo](https://functions-js.convertkit.com/icons?icon=twitter&foreground=1d8ced&background=000000&shape=icon-only)@Bearded_Email[Huge breakdwon of @wearlively email marketing campaign with some recommendations 🧵  [Thread\]  pic.twitter.com/fTAOuoYWSW![Video or Gif](https://pbs.twimg.com/media/FBv8FRZXEBUg5av.jpg)](https://twitter.com/Bearded_Email/status/1449028885098729474)October 15th 20213Retweets17Likes
-
+[Huge breakdwon of @wearlively email marketing campaign with some recommendations 🧵](https://twitter.com/Bearded_Email/status/1449028885098729474)
 
 
-![twitter profile avatar](https://pbs.twimg.com/profile_images/1445038532888862726/eZ7VV7m9_normal.jpg)Albert Chris👨‍💻![Twitter Logo](https://functions-js.convertkit.com/icons?icon=twitter&foreground=1d8ced&background=000000&shape=icon-only)@_albertchris[5 Stratergies For Better Email Marketing Campaigns  Thread🧵](https://twitter.com/_albertchris/status/1448746303874387972)October 14th 20215Retweets4Likes
-
+[5 Stratergies For Better Email Marketing Campaigns  Thread🧵](https://twitter.com/_albertchris/status/1448746303874387972)
 
 
 ## 🗓 Upcoming Events
