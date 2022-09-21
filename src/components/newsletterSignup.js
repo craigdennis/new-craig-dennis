@@ -38,9 +38,9 @@ const SubscriptionForm = () => {
 
   return (
     <div className="sub">
-      <h2>Stay up to date about all things Email Marketing</h2>
+      <h2>Want to keep up to date with my latest writing?</h2>
       <p>
-        Can't be arsed to listen to all the podcasts, read all the articles and read all the tweets about email marketing. I've got your back!
+        Get my fresh articles delveried to your inbox as soon as they are live.
       </p>
 
       <p>
