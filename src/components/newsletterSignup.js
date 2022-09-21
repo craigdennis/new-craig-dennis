@@ -67,7 +67,7 @@ const SubscriptionForm = () => {
           required
         />
 
-        <button type="submit">Improve My Email Marketing</button>
+        <button type="submit">Get some emails</button>
       </form>
 
       <p className="sub__tag">
