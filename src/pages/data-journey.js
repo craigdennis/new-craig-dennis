@@ -25,7 +25,7 @@ const DataJourneyIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Newsletter - Craig Dennis" />
+      <SEO title="Data Journey - Craig Dennis" />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
@@ -63,7 +63,7 @@ const DataJourneyIndex = ({ data, location }) => {
   )
 }
 
-export default NewsletterIndex
+export default DataJourneyIndex
 
 export const pageQuery = graphql`
   query {
@@ -73,7 +73,7 @@ export const pageQuery = graphql`
       }
     }
     allMdx(
-      filter: { frontmatter: { category: { eq: "newsletter" } } }
+      filter: { frontmatter: { category: { eq: "datajourney" } } }
       sort: { fields: [frontmatter___date], order: DESC }
       
       ) {
